@@ -3,21 +3,24 @@
     "username": "user",
     "password": "pass",
     "database": "db",
-    "host": "hello-world_postgres_1",
+    "host": "localhost",
+    "port": 35432,
     "dialect": "postgres"
   },
   "test": {
     "username": "user",
     "password": "pass",
     "database": "db",
-    "host": "hello-world_postgres_1",
+    "host": "localhost",
+    "port": 35432,
     "dialect": "postgres"
   },
   "production": {
     "username": "user",
     "password": "pass",
     "database": "db",
-    "host": "hello-world_postgres_1",
+    "host": "localhost",
+    "port": 35432,
     "dialect": "postgres"
   }
 }
